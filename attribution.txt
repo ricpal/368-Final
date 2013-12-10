@@ -1,0 +1,10 @@
+Button Layout and footer shadow:
+	http://codepen.io/ricpal/pen/DCkwH
+
+Image Gallery:
+	http://codepen.io/ricpal/pen/pKuAm
+
+Contact page layout:
+	http://codepen.io/ricpal/pen/yqhbj
+
+
